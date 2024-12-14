@@ -2,7 +2,7 @@
 Привіт , я починаючй програміст , звати мене pilk і це мій 1 із перших проектів , хто хоче зроби якесь заучваєення до проекту то ось telegram - https://t.me/pilkxzz
 Сучасний лаунчер ігор з розширеними можливостями запису відео та створення скріншотів. Програма автоматично знаходить встановлені ігри зі Steam та Epic Games, дозволяє записувати геймплей у високій якості та робити скріншоти.
 
-![Game Launcher Screenshot](Record Games program logo.jpg)
+![Game Launcher ICO](Record Games program logo.jpg)
 ![Game Launcher Screenshot](screenshot.png)
 
 ## ✨ Основні можливості
