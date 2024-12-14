@@ -1,0 +1,34 @@
+{
+    "video": {
+        "codec": "H264",
+        "container": "MP4",
+        "quality": 80,
+        "bitrate": 5000,
+        "resolution": "Оригінальна",
+        "width": 1920,
+        "height": 1080,
+        "fps": 30,
+        "use_gpu": false,
+        "record_audio": true,
+        "show_cursor": true,
+        "show_clicks": false
+    },
+    "screenshot": {
+        "format": "PNG",
+        "quality": 90,
+        "save_path": "screenshots"
+    },
+    "interface": {
+        "theme": "dark",
+        "language": "uk",
+        "window_size": [
+            1000,
+            700
+        ],
+        "show_game_time": true,
+        "show_game_icons": true
+    },
+    "format": "MP4",
+    "quality": 100,
+    "fps": 60
+}
